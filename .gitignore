@@ -12,6 +12,7 @@ node_modules
 dist
 dist-ssr
 *.local
+
 sheets-service-account.json
 
 # Editor directories and files
